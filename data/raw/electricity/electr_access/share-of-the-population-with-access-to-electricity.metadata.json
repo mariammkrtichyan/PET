@@ -1,0 +1,37 @@
+{
+  "chart": {
+    "title": "Share of the population with access to electricity",
+    "subtitle": "Having access to electricity is defined in international statistics as having an electricity source that can provide very basic lighting, and charge a phone or power a radio for 4 hours per day.",
+    "citation": "Data compiled from multiple sources by World Bank",
+    "originalChartUrl": "https://ourworldindata.org/grapher/share-of-the-population-with-access-to-electricity?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Brazil",
+      "Rwanda",
+      "India",
+      "China",
+      "Haiti",
+      "Afghanistan",
+      "United States"
+    ]
+  },
+  "columns": {
+    "Access to electricity (% of population)": {
+      "titleShort": "Share of the population with access to electricity",
+      "titleLong": "Share of the population with access to electricity - World Bank",
+      "descriptionShort": "Having access to electricity is defined in international statistics as having an electricity source that can provide very basic lighting, and charge a phone or power a radio for 4 hours per day.",
+      "shortUnit": "%",
+      "unit": "% of population",
+      "timespan": "1990-2022",
+      "type": "Numeric",
+      "owidVariableId": 1007871,
+      "shortName": "eg_elc_accs_zs",
+      "lastUpdated": "2025-01-24",
+      "nextUpdate": "2026-01-24",
+      "citationShort": "Data compiled from multiple sources by World Bank – with minor processing by Our World in Data",
+      "citationLong": "Data compiled from multiple sources by World Bank – with minor processing by Our World in Data. “Share of the population with access to electricity – World Bank” [dataset]. World Bank and International Energy Agency, “World Development Indicators” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1007871.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-02-19",
+  "activeFilters": {}
+}

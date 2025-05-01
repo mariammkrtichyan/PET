@@ -1,0 +1,74 @@
+{
+  "chart": {
+    "title": "Adoption of communication technologies",
+    "note": "Landline Internet subscriptions are defined as a fixed access to the public Internet with a download speed of at least 256 kbit/s. Internet users are people who have accessed the Internet from any location in the last three months.",
+    "citation": "International Telecommunication Union (via World Bank) (2025); HYDE (2023); Gapminder (2022); UN WPP (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/ict-adoption?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "World"
+    ]
+  },
+  "columns": {
+    "Fixed telephone subscriptions": {
+      "titleShort": "Landline phone subscriptions",
+      "titleLong": "Landline phone subscriptions",
+      "unit": "",
+      "timespan": "1960-2023",
+      "type": "Numeric",
+      "owidVariableId": 1008189,
+      "shortName": "it_mlt_main",
+      "lastUpdated": "2025-01-24",
+      "nextUpdate": "2026-01-24",
+      "citationShort": "International Telecommunication Union (via World Bank) (2025) – processed by Our World in Data",
+      "citationLong": "International Telecommunication Union (via World Bank) (2025) – processed by Our World in Data. “Landline phone subscriptions” [dataset]. International Telecommunication Union (via World Bank), “World Development Indicators” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1008189.metadata.json"
+    },
+    "Fixed broadband subscriptions": {
+      "titleShort": "Landline Internet subscriptions",
+      "titleLong": "Landline Internet subscriptions",
+      "unit": "",
+      "timespan": "1998-2023",
+      "type": "Numeric",
+      "owidVariableId": 1008191,
+      "shortName": "it_net_bbnd",
+      "lastUpdated": "2025-01-24",
+      "nextUpdate": "2026-01-24",
+      "citationShort": "International Telecommunication Union (via World Bank) (2025) – processed by Our World in Data",
+      "citationLong": "International Telecommunication Union (via World Bank) (2025) – processed by Our World in Data. “Landline Internet subscriptions” [dataset]. International Telecommunication Union (via World Bank), “World Development Indicators” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1008191.metadata.json"
+    },
+    "Mobile cellular subscriptions": {
+      "titleShort": "Mobile phone subscriptions",
+      "titleLong": "Mobile phone subscriptions",
+      "unit": "",
+      "timespan": "1960-2023",
+      "type": "Integer",
+      "owidVariableId": 1008187,
+      "shortName": "it_cel_sets",
+      "lastUpdated": "2025-01-24",
+      "nextUpdate": "2026-01-24",
+      "citationShort": "International Telecommunication Union (via World Bank) (2025) – processed by Our World in Data",
+      "citationLong": "International Telecommunication Union (via World Bank) (2025) – processed by Our World in Data. “Mobile phone subscriptions” [dataset]. International Telecommunication Union (via World Bank), “World Development Indicators” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1008187.metadata.json"
+    },
+    "Number of Internet users": {
+      "titleShort": "Internet users",
+      "titleLong": "Internet users",
+      "descriptionShort": "The number of individuals using the Internet.",
+      "descriptionProcessing": "The number of internet users is calculated by Our World in Data based on internet access figures as a share of the total population, published in the World Development Indicators by the World Bank and total population figures from the UN World Population Prospects, Gapminder and HYDE.\"",
+      "shortUnit": "users",
+      "unit": "users",
+      "timespan": "1960-2021",
+      "type": "Numeric",
+      "owidVariableId": 1004714,
+      "shortName": "num_internet_users",
+      "lastUpdated": "2024-12-23",
+      "nextUpdate": "2025-12-23",
+      "citationShort": "HYDE (2023); Gapminder (2022); UN WPP (2024) – with major processing by Our World in Data",
+      "citationLong": "HYDE (2023); Gapminder (2022); UN WPP (2024) – with major processing by Our World in Data. “Internet users” [dataset]. International Telecommunication Union (via World Bank), “World Development Indicators”; Various sources, “Population” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1004714.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-02-19",
+  "activeFilters": {}
+}

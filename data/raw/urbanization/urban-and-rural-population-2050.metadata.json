@@ -1,0 +1,51 @@
+{
+  "chart": {
+    "title": "Urban and rural population projected to 2050",
+    "subtitle": "Total urban and rural population, given as estimates to 2023, and UN projections to 2050. Projections are based on the UN World Urbanization Prospects and its median fertility scenario.",
+    "citation": "United Nations, Department of Economic and Social Affairs, Population Division (2018); HYDE (2023)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/urban-and-rural-population-2050?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "World"
+    ]
+  },
+  "columns": {
+    "Urban population (HYDE estimates and UN projections)": {
+      "titleShort": "Population residing in urban areas",
+      "titleLong": "Population residing in urban areas",
+      "descriptionShort": "Total urban population of a country over time.",
+      "descriptionKey": [
+        "The projection method for urban population in the World Urbanization Prospects involves a two-step process using an established extrapolation method based on urban-rural ratios. Initially, the average annual rate of change in the urban-rural ratio is calculated using data from the last two censuses, which informs the rate of change in urban and rural populations. This rate is then extrapolated, assuming a logistic path of urban proportion growth. Subsequently, a \"world norm\" is applied, estimated from empirical urban-rural growth differences in two groups of countries categorized by population size. This norm uses a regression equation to establish a hypothetical urban-rural growth difference for different levels of initial urban percentage.\n\nThe country-specific urban-rural growth difference is then converged with this hypothetical difference over 25 years, allowing the urbanization process of a country to align with a global urbanization pattern. This method ensures that urban-rural growth differences evolve towards a worldwide trend rather than remaining constant."
+      ],
+      "shortUnit": "",
+      "unit": "people",
+      "timespan": "-10000-2050",
+      "type": "Numeric",
+      "owidVariableId": 819999,
+      "shortName": "urbc_c",
+      "lastUpdated": "2024-01-17",
+      "citationShort": "United Nations, Department of Economic and Social Affairs, Population Division (2018); HYDE (2023) – with minor processing by Our World in Data",
+      "citationLong": "United Nations, Department of Economic and Social Affairs, Population Division (2018); HYDE (2023) – with minor processing by Our World in Data. “Population residing in urban areas” [dataset]. United Nations, Department of Economic and Social Affairs, Population Division, “World Urbanization Prospects Dataset”; PBL Netherlands Environmental Assessment Agency, “History Database of the Global Environment 3.3” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/819999.metadata.json"
+    },
+    "Rural population (HYDE estimates and UN projections)": {
+      "titleShort": "Population residing in rural areas",
+      "titleLong": "Population residing in rural areas",
+      "descriptionShort": "Total rural population of a country over time.",
+      "descriptionKey": [
+        "The projection method for urban population in the World Urbanization Prospects involves a two-step process using an established extrapolation method based on urban-rural ratios. Initially, the average annual rate of change in the urban-rural ratio is calculated using data from the last two censuses, which informs the rate of change in urban and rural populations. This rate is then extrapolated, assuming a logistic path of urban proportion growth. Subsequently, a \"world norm\" is applied, estimated from empirical urban-rural growth differences in two groups of countries categorized by population size. This norm uses a regression equation to establish a hypothetical urban-rural growth difference for different levels of initial urban percentage.\n\nThe country-specific urban-rural growth difference is then converged with this hypothetical difference over 25 years, allowing the urbanization process of a country to align with a global urbanization pattern. This method ensures that urban-rural growth differences evolve towards a worldwide trend rather than remaining constant."
+      ],
+      "shortUnit": "",
+      "unit": "people",
+      "timespan": "-10000-2050",
+      "type": "Numeric",
+      "owidVariableId": 820001,
+      "shortName": "rurc_c",
+      "lastUpdated": "2024-01-17",
+      "citationShort": "United Nations, Department of Economic and Social Affairs, Population Division (2018); HYDE (2023) – with minor processing by Our World in Data",
+      "citationLong": "United Nations, Department of Economic and Social Affairs, Population Division (2018); HYDE (2023) – with minor processing by Our World in Data. “Population residing in rural areas” [dataset]. United Nations, Department of Economic and Social Affairs, Population Division, “World Urbanization Prospects Dataset”; PBL Netherlands Environmental Assessment Agency, “History Database of the Global Environment 3.3” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/820001.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-05-01",
+  "activeFilters": {}
+}
